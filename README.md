@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="1840" height="908" alt="suno gif" src="https://github.com/user-attachments/assets/7049fbb0-976f-4f4d-90f5-c5f6c51495b4" />
-
+<img width="339" height="450" alt="image" src="https://github.com/user-attachments/assets/a3472026-0ddf-496f-8266-48eac3e8a89e" />
 
 # Suno Link Grabber
 
@@ -33,16 +32,6 @@ https://suno.com/s/vF9i1KEf6dz6Fg3i
 https://suno.com/s/xxxxxxxxxxxxxxxx
 https://suno.com/s/yyyyyyyyyyyyyyyy
 ```
-
-## Screenshot
-
-> Tambahkan screenshot Anda di folder `screenshots/` lalu ganti jalur gambar di bawah.
-
-<!--
-<p align="center">
-  <img src="screenshots/panel.png" width="360" alt="Panel Suno Link Grabber" />
-</p>
--->
 
 ## Instalasi
 
