@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="icons/icon128.png" width="96" alt="Suno Link Grabber icon" />
+<img width="1840" height="908" alt="suno gif" src="https://github.com/user-attachments/assets/7049fbb0-976f-4f4d-90f5-c5f6c51495b4" />
+
 
 # Suno Link Grabber
 
@@ -140,6 +141,4 @@ Issue dan pull request sangat diterima. Jika menemukan bug, sertakan:
 2. Log dari Console (baris `[SunoScraper]`).
 3. Potongan HTML tombol yang bermasalah (klik kanan > **Inspect** > **Copy outerHTML**).
 
-## Lisensi
 
-Dirilis di bawah lisensi [MIT](LICENSE). Tambahkan file `LICENSE` di repo Anda.
